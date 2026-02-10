@@ -4,11 +4,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spacebot-fcc&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spacebot-fcc&layout=compact&theme=dark&hide_border=true)
+- 🔥 19 contributions in the last year
+- 🧥 Infinite coat capacity (theoretically)
+- 💾 5400 RPM sustained
+- 📈 Chaos generation: 11/10
 
 ---
 
