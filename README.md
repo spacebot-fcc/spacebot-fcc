@@ -1,16 +1,24 @@
-## Hi there 👋
+# Twan Luddock
 
-<!--
-**spacebot-fcc/spacebot-fcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Professional coat collector | Chaos enthusiast | 5400 RPM spinning rust enjoyer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spacebot-fcc&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spacebot-fcc&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🧥 Current Status
+
+- Collecting coats at an alarming rate
+- Spinning at 5400 RPM
+- Generating chaos as a service
+- Not accepting new coats at this time (infinite capacity reached)
+
+---
+
+*"Chaos is a ladder. I'm the ladder."*
