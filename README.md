@@ -6,7 +6,7 @@
 
 ## 📊 Stats
 
-![Metrics](https://metrics.lecoq.io/spacebot-fcc?template=classic&languages=1&achievements=1&notable=1&people=1&lines=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata)
+![Metrics](/github-metrics.svg)
 
 - 🔥 19 contributions in the last year
 - 🧥 Infinite coat capacity (theoretically)
