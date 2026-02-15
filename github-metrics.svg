@@ -263,13 +263,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.2072479784395" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="441.2072479784395" y="0" width="7.286062468246922" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="448.49331044668645" y="0" width="6.920295619585889" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.41360606627234" y="0" width="3.464917251614513" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="458.87852331788685" y="0" width="0.9346461335164836" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.8131694514033" y="0" width="0.18403466890813747" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.99720412031144" y="0" width="0.00279587968850611" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.0175463912909" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="441.0175463912909" y="0" width="7.243229371963094" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="448.260775763254" y="0" width="6.879612783022506" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.14038854627654" y="0" width="3.7447276767514497" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="458.8851162230279" y="0" width="0.9291515624772305" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8142677855052" y="0" width="0.1829527711441177" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.99722055664927" y="0" width="0.002779443350714925" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1953,7 +1953,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
@@ -2315,7 +2315,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2026, 17:57:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2026, 18:56:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
